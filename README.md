@@ -6,6 +6,7 @@ O projeto é realizado pela Junior Achievement Brasil, com o patrocínio da CCR 
 ## 🗃️ Conteúdo
 ### Atividades 📚
 [Mulheres na Tecnologia - Apenas HTML](https://elainefs.github.io/ElasNaTech23/mulheres-na-tecnologia)
+
 [Currículo - Apenas HTML](https://elainefs.github.io/ElasNaTech23/projeto-curriculo/)
 
 ## 📄 Licença
