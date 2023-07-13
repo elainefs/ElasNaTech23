@@ -9,6 +9,8 @@ O projeto é realizado pela Junior Achievement Brasil, com o patrocínio da CCR 
 
 [Currículo - Apenas HTML](https://elainefs.github.io/ElasNaTech23/projeto-curriculo/)
 
+[Cardápio Simples](https://elainefs.github.io/ElasNaTech23/cardapio-simples/)
+
 ## 📄 Licença
 O conteúdo desse repositório está sob a licença do MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
 
