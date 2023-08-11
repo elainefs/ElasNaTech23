@@ -49,6 +49,7 @@ p {
 
 html {
   font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -107,7 +108,7 @@ section {
   width: 100%;
 }
 
-iframe{
+iframe {
   width: 100%;
   height: 100%;
   aspect-ratio: 16 / 9;
@@ -389,17 +390,17 @@ textarea[placeholder] {
     flex-direction: row;
     justify-content: space-between;
   }
-  
+
   .logo {
     margin: 0;
   }
-  
+
   .header__nav ul {
     display: flex;
     flex-direction: row;
     gap: 1rem;
   }
-  
+
   .ods {
     display: flex;
     justify-content: center;
@@ -435,9 +436,9 @@ textarea[placeholder] {
   .col-obj p.concluido:hover span {
     max-width: 15%;
   }
-  
+
   .col-obj p.andamento:hover span {
-    max-width: 20%;   
+    max-width: 20%;
   }
 
   .ajudar-opt {
