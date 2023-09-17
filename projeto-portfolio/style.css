@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primary-color {
+  background-color: #041540;
+}
+
+.secondary-color {
+  background-color: #0181c2;
+}
+
+.profile {
+  width: 300px;
+}
+
+header { 
+  border-bottom: 1px solid #868585;
+
+}
+
+i[class^="devicon"]{
+  font-size: 100px;
+}
+
+a i[class^="devicon"]{
+  font-size: 30px;
+  color: #868585;
+}
+
+a i[class^="bi"]{
+  font-size: 30px;
+  color: #868585;
+}
+
+footer {
+  background-color: #0d1c2f;
+}
+
+/* main section .container:nth-child(1){
+  border-top: 1px solid #fff;
+} */
