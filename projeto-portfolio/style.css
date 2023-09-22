@@ -5,6 +5,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .primary-color {
   background-color: #041540;
 }
@@ -42,9 +46,18 @@ i[class^="devicon"] {
   font-size: 100px;
 }
 
-.skills-itens:hover {
+.skills-itens:hover, .contato-itens:hover{
   background-color: #041540;
   border-radius: 5px;
+  color: #fff;
+}
+
+.contato-itens i[class^="bi"]{
+  font-size: 50px;
+  color: #0181c2;
+}
+
+.contato-itens:hover i:first-of-type{
   color: #fff;
 }
 
