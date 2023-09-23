@@ -31,8 +31,10 @@ a {
   max-width: 350px;
 }
 
-.img-portfolio img {
-  min-height: 400px;
+.img-portfolio div img{
+  height: 200px;
+  max-height: 300px;
+  width: 100%;
   border-radius: 50px;
 }
 

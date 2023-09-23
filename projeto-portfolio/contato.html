@@ -24,7 +24,7 @@
     rel="stylesheet">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
@@ -40,7 +40,8 @@
           <div class="navbar-nav ms-auto title-font">
             <a href="index.html" class="nav-link text-uppercase mx-2 fw-bold">Início</a>
             <a href="portfolio.html" class="nav-link text-uppercase mx-2 fw-bold">Portfólio</a>
-            <a href="#" class="nav-link text-uppercase mx-2 fw-bold">Currículo</a>
+            <a href="assets/doc/Elaine Ferreira dos Santos.pdf"
+              class="nav-link text-uppercase mx-2 fw-bold">Currículo</a>
             <a href="#" class="nav-link text-uppercase mx-2 fw-bold active">Contato</a>
           </div>
         </div>
@@ -112,30 +113,13 @@
           <a href="https://devicon.dev/">DevIcon</a>
         </div>
         <div class="d-flex align-items-center justify-content-center col-12 col-md-3">
-          <p class="text-secondary text-font text-center">Copyright &copy; Elaine Ferreira</p>
+          <p class="text-secondary text-font text-center">Copyright <span id="anoAtual">2022</span> &copy; Elaine
+            Ferreira</p>
         </div>
       </div>
     </div>
   </footer>
-  <script>
-    (function () {
-      'use strict'
-
-      var forms = document.querySelectorAll('.needs-validation')
-
-      Array.prototype.slice.call(forms)
-        .forEach(function (form) {
-          form.addEventListener('submit', function (event) {
-            if (!form.checkValidity()) {
-              event.preventDefault()
-              event.stopPropagation()
-            }
-
-            form.classList.add('was-validated')
-          }, false)
-        })
-    })()
-  </script>
+  <script src="assets/js/script.js"></script>
 </body>
 
 </html>
