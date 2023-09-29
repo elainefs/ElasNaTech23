@@ -16,7 +16,7 @@ O projeto é realizado pela Junior Achievement Brasil, com o patrocínio da CCR 
 
 [Projeto ODS](https://elainefs.github.io/ElasNaTech23/projeto-ods)
 
-[Projeto Portfólio](https://elainefs.github.io/ElasNaTech23/projeto-portfolio)
+[Projeto Portfólio](https://github.com/elainefs/elainefs.github.io)
 
 ## 📄 Licença
 
